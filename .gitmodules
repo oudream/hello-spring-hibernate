@@ -1,0 +1,3 @@
+[submodule "examples/hibernate-demos"]
+	path = examples/hibernate-demos
+	url = https://github.com/hibernate/hibernate-demos.git
